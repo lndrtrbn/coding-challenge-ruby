@@ -1,10 +1,10 @@
 # Coding Challenge Ruby
 
-**Coding Challenge Ruby** is a repository that regroups usefull information, algorithms, data structures, etc. to help resolve coding challenge in Ruby.
+**Coding Challenge Ruby** is a repository which groups usefull information, algorithms, data structures, etc. to help resolve coding challenge in Ruby.
 
-Each algorithm, data structure, whatever, comes with comments at the beginning of the file to explain in what situation it should be used, to resolve what kind of problem.
+Each algorithm, data structure, whatever, comes with comments at the beginning of the file to explain in what situation it could be usefull.
 
-> Information are mostly inspired from the very good **geeksforgeeks** website.
+> Information is mostly inspired from the very good **geeksforgeeks** website.
 
 ## Summary
 
